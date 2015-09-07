@@ -1,5 +1,7 @@
 # psycar
 
+### A PSYCHEDELIC BACKGROUND ANIMATION JQUERY-PLUGIN
+
 
 see in action http://ordrumbox.com/cadeli/psycar/
 
@@ -13,3 +15,6 @@ usage :
             backColor         : '#FEC657',
             isBezier           : 'true'
                });
+               
+== MIT License (MIT)
+
