@@ -5,7 +5,7 @@ see in action http://ordrumbox.com/cadeli/psycar/
 
 usage :
 
-        psycar1 = $('.container').psycar({
+         $('.container').psycar({
             time_interval_ms  : 100,
             cSpeed            : 0.5 ,
             cAmplitude        : 0.08,  // 0 to 1  
