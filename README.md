@@ -16,5 +16,7 @@ usage :
             isBezier           : 'true'
                });
                
-== MIT License (MIT)
+               
+               
+## MIT License (MIT)
 
