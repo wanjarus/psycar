@@ -109,7 +109,6 @@ function Point(x, y) {
 		var height = $this.height();
 
 		var canvas_id = "psycar-canvas-"+     $this.attr('id');
-		//console.log("eee="+canvas_id+" ee="+ $this.attr('id') + " aa");
 
 		var canvas = $('<canvas id="'+ canvas_id+'">')
 			.attr({width: $this.width(), height: $this.height()})
